@@ -6,7 +6,7 @@
  <hr>
 <ul>
  <li><h2>Descrição do projeto</h2>
- <p>  O projeto está sendo realizado em um dos cursos da Alura para concretizar conhecimentos em js, tais como: pedidos de requisição externo, usar DOM para criar uma página dinâmica, código legível e etc.</p>
+ <p>  O projeto está sendo realizado em um dos cursos da Alura para concretizar conhecimentos em js, tais como:  requisição externa, usar DOM para criar uma página dinâmica, código legível e etc.</p>
  <hr>
  <li><h3> Algumas observações importantes</h2>
  <ul>
